@@ -7,6 +7,8 @@ Supersedes [tpipe](http://github.com/caseyjlaw/tpipe). Uses a paradigm that defi
 Requirements
 ---
 
+[![Join the chat at https://gitter.im/caseyjlaw/rtpipe](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/caseyjlaw/rtpipe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Python 2.7
 * Standard scientific Python stuff: numpy, scipy, matplotlib, multiprocessing
 * [pwkit](http://github.com/pkgw/pwkit) (for access to CASA libraries)
